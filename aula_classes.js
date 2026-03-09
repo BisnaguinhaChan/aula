@@ -1,4 +1,4 @@
-// Calculadora
+// Calculadora só para teste para eu treinar subir e alterar. 
 
 function somar(a, b) {
   return a + b;
